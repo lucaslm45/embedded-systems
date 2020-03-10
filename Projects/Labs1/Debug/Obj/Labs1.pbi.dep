@@ -1,0 +1,12 @@
+Labs1.pbi: \
+  C:\Users\Lucas\Downloads\eae\EK-TM4C1294_IAR8\Projects\Labs1\..\..\TivaWare_C_Series-2.1.4.178\driverlib\systick.h \
+  C:\Users\Lucas\Downloads\eae\EK-TM4C1294_IAR8\Projects\Labs1\..\..\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h \
+  C:\Users\Lucas\Downloads\eae\EK-TM4C1294_IAR8\Projects\Labs1\..\..\TivaWare_C_Series-2.1.4.178\driverlib\gpio.h \
+  C:\Users\Lucas\Downloads\eae\EK-TM4C1294_IAR8\Projects\Labs1\..\..\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\stdbool.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\stdint.h \
+  C:\Users\Lucas\Downloads\eae\EK-TM4C1294_IAR8\Projects\Labs1\src\Labs1.c

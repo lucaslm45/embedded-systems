@@ -44,7 +44,7 @@
                 </option>
                 <option>
                     <name>OGCoreOrChip</name>
-                    <state>0</state>
+                    <state>1</state>
                 </option>
                 <option>
                     <name>GRuntimeLibSelect</name>
@@ -78,7 +78,7 @@
                 </option>
                 <option>
                     <name>OGChipSelectEditMenu</name>
-                    <state>Default	None</state>
+                    <state>TM4C1294NCPDT	TexasInstruments TM4C1294NCPDT</state>
                 </option>
                 <option>
                     <name>GenLowLevelInterface</name>
@@ -86,7 +86,7 @@
                 </option>
                 <option>
                     <name>GEndianModeBE</name>
-                    <state>0</state>
+                    <state>1</state>
                 </option>
                 <option>
                     <name>OGBufferedTerminalOutput</name>
@@ -117,11 +117,11 @@
                 <option>
                     <name>GBECoreSlave</name>
                     <version>28</version>
-                    <state>38</state>
+                    <state>39</state>
                 </option>
                 <option>
                     <name>OGUseCmsis</name>
-                    <state>0</state>
+                    <state>1</state>
                 </option>
                 <option>
                     <name>OGUseCmsisDspLib</name>
@@ -134,21 +134,21 @@
                 <option>
                     <name>CoreVariant</name>
                     <version>28</version>
-                    <state>38</state>
+                    <state>39</state>
                 </option>
                 <option>
                     <name>GFPUDeviceSlave</name>
-                    <state>Default	None</state>
+                    <state>TM4C1294NCPDT	TexasInstruments TM4C1294NCPDT</state>
                 </option>
                 <option>
                     <name>FPU2</name>
                     <version>0</version>
-                    <state>0</state>
+                    <state>4</state>
                 </option>
                 <option>
                     <name>NrRegs</name>
                     <version>0</version>
-                    <state>0</state>
+                    <state>1</state>
                 </option>
                 <option>
                     <name>NEON</name>
@@ -157,7 +157,7 @@
                 <option>
                     <name>GFPUCoreSlave2</name>
                     <version>28</version>
-                    <state>38</state>
+                    <state>39</state>
                 </option>
                 <option>
                     <name>OGCMSISPackSelectDevice</name>
@@ -198,7 +198,7 @@
                 </option>
                 <option>
                     <name>DSPExtension</name>
-                    <state>0</state>
+                    <state>1</state>
                 </option>
                 <option>
                     <name>TrustZone</name>
@@ -603,7 +603,7 @@
                 </option>
                 <option>
                     <name>AOutputFile</name>
-                    <state></state>
+                    <state>$FILE_BNAME$.o</state>
                 </option>
                 <option>
                     <name>ALimitErrorsCheck</name>
@@ -772,7 +772,7 @@
                 </option>
                 <option>
                     <name>IlinkIcfFile</name>
-                    <state>$TOOLKIT_DIR$\CONFIG\generic_cortex.icf</state>
+                    <state>$TOOLKIT_DIR$\config\linker\TexasInstruments\TM4C1294NC.icf</state>
                 </option>
                 <option>
                     <name>IlinkIcfFileSlave</name>
@@ -2111,4 +2111,16 @@
             <data />
         </settings>
     </configuration>
+    <file>
+        <name>$PROJ_DIR$\driverlib.a</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\src\Labs1.c</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\src\startup_TM4C1294.s</name>
+    </file>
+    <file>
+        <name>$PROJ_DIR$\src\system_TM4C1294_TW.c</name>
+    </file>
 </project>
